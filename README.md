@@ -1,4 +1,5 @@
 <h1>SAFE-USE</h1> <img src="C:\Users\troy1\Desktop\Logo.png" alt="Logo" style="zoom:8%;" />
+
 ## Description
 
 The mission of Safe Use is to provide education to prevent drugs abuse. As well as safety and a quick access to support for people having a challenging experience.
